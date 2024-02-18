@@ -109,6 +109,11 @@ p {
   max-width: 150px;
 }
 
+nav li {
+  display: inline;
+  list-style: none;
+}
+
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
