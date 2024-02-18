@@ -130,6 +130,10 @@ nav a {
   color: #272142;
 }
 
+nav a:hover {
+  color: var(--branding-color);
+}
+
 @media (max-width: 900px) {
   h1 {
     font-size: 44px;
