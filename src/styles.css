@@ -115,13 +115,17 @@ p {
     font-size: 44px;
   }
 
+  .hero {
+    padding: 80px 20px;
+  }
+
+  .content {
+    text-align: center;
+    padding: 0;
+  }
+
   .project-description {
     padding: 0;
     text-align: center;
-  }
-
-  .about-section {
-    text-align: center;
-    padding: 0;
   }
 }
