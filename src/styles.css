@@ -1,6 +1,6 @@
 :root {
   --branding-color: #ff50ad;
-  --secondary-color: rgb(241, 202, 188);
+  --secondary-color: rgb(236, 213, 204);
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
 }
@@ -202,5 +202,5 @@ footer .social-links a:hover {
 }
 
 .work-together {
-  color: white;
+  color: #000;
 }
