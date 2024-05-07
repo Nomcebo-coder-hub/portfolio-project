@@ -1,6 +1,6 @@
 :root {
-  --branding-color: coral;
-  --secondary-color: rgb(243, 193, 175);
+  --branding-color: rgb(255, 80, 173);
+  --secondary-color: rgb(241, 202, 188);
   --heading-font-family: "Playfair Display", serif;
   --default-font-family: "Poppins", sans-serif;
 }
