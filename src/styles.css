@@ -31,6 +31,11 @@ h2 {
 
 h3 {
   font-size: 48px;
+  transition: all 0.2s ease-in-out;
+}
+
+h3:hover {
+  color: var(--branding-color);
 }
 
 p {
@@ -203,4 +208,8 @@ footer .social-links a:hover {
 
 .work-together {
   color: #fff;
+}
+
+.project-link {
+  text-decoration: none;
 }
